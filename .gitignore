@@ -45,3 +45,12 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Unity ignore
+.vscode/*
+Library/*
+Assets/VSCode.meta
+Assets/VSCode/*
+*.csproj
+*.sln
+*.userprefs
