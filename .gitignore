@@ -51,6 +51,7 @@ Temporary Items
 Library/*
 Assets/VSCode.meta
 Assets/VSCode/*
+Temp/*
 *.csproj
 *.sln
 *.userprefs
